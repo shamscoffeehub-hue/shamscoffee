@@ -291,13 +291,14 @@ function openContact() {
     <div class="contact-page">
       <h2>${t.title}</h2>
       <p>${t.address}</p>
-      <iframe 
-        src="https://www.google.com/maps?q=27.1527362,33.8232987&output=embed">
-        width="100%" 
-        height="250" 
-        style="border:0; border-radius:15px;"
-        loading="lazy">
-      </iframe>
+<iframe
+  src="https://www.google.com/maps?q=27.1527362,33.8232987&output=embed"
+  width="100%"
+  height="400"
+  style="border:0; border-radius:15px;"
+  loading="lazy"
+  allowfullscreen>
+</iframe>
       <div class="contact-links">
         <a href="tel:+201122203111" target="_blank">
           <i class="fa-solid fa-phone"></i> Call
