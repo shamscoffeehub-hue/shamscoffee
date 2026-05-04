@@ -106,7 +106,7 @@ const data = {
         { name: { en: "Oreo Milkshake", ar: "ميلك شيك أوريو", ru: "Молочный коктейль с Oreo", de: "Oreo-Milchshake", it: "Frullato all'Oreo" }, desc: { en: "Oreo milkshake", ar: "ميلك شيك أوريو", ru: "Молочный коктейль с Oreo", de: "Oreo-Milchshake", it: "Frullato all'Oreo" }, price: 80, image: "images/products/oreo-milkshake.webp" },
         { name: { en: "Caramel Milkshake", ar: "ميلك شيك كراميل", ru: "Карамельный молочный коктейль", de: "Karamell-Milchshake", it: "Frullato al Caramello" }, desc: { en: "Caramel milkshake", ar: "ميلك شيك كراميل", ru: "Карамельный молочный коктейль", de: "Karamell-Milchshake", it: "Frullato al caramello" }, price: 80, image: "images/products/caramel-milkshake.webp" },
         { name: { en: "Lotus Milkshake", ar: "ميلك شيك لوتس", ru: "Молочный коктейль Lotus", de: "Lotus-Milchshake", it: "Frullato al Lotus" }, desc: { en: "Lotus biscoff milkshake", ar: "ميلك شيك لوتس بيسكوف", ru: "Молочный коктейль Lotus Biscoff", de: "Lotus Biscoff Milchshake", it: "Frullato Lotus Biscoff" }, price: 85, image: "images/products/lotus-milkshake.webp" },
-        {name: {en: "Pistachio Milkshake", ar: "ميلك شيك فستق", ru: "Молочный коктейль с фисташками", de: "Pistazien-Milchshake", it: "Frullato al Pistacchio"}, desc: {en: "Pistachio milkshake", ar: "ميلك شيك فستق", ru: "Молочный коктейль с фисташками", de: "Pistazien-Milchshake", it: "Frullato al pistacchio"}, price: 85, image: "images/products/pistachio-milkshake.webp" }
+        { name: { en: "Pistachio Milkshake", ar: "ميلك شيك فستق", ru: "Молочный коктейль с фисташками", de: "Pistazien-Milchshake", it: "Frullato al Pistacchio" }, desc: { en: "Pistachio milkshake", ar: "ميلك شيك فستق", ru: "Молочный коктейль с фисташками", de: "Pistazien-Milchshake", it: "Frullato al pistacchio" }, price: 85, image: "images/products/pistachio-milkshake.webp" }
       ]
     },
     {
@@ -122,11 +122,11 @@ const data = {
         { name: { en: "Coca-Cola Zero", ar: "كوكاكولا زيرو", ru: "Кока-кола зеро", de: "Coca-Cola Zero", it: "Coca-Cola Zero" }, desc: { en: "Zero sugar Coca-Cola", ar: "كوكاكولا بدون سكر", ru: "Кока-кола без сахара", de: "Coca-Cola ohne Zucker", it: "Coca-Cola senza zucchero" }, price: 30, image: "images/products/cocacola-zero.webp" },
 
         { name: { en: "Fayrouz", ar: "فيروز", ru: "Файруз", de: "Fayrouz", it: "Fayrouz" }, desc: { en: "Fayrouz non-alcoholic malt drink", ar: "مشروب مالت غير كحولي فيروز", ru: "Безалкогольный солодовый напиток", de: "Fayrouz alkoholfreies Malzgetränk", it: "Bevanda al malto analcolica Fayrouz" }, price: 35, image: "images/products/fayrouz.webp" },
-        
+
         { name: { en: "Birell", ar: "بيريل", ru: "Бирелль", de: "Birell", it: "Birell" }, desc: { en: "Non-alcoholic beer", ar: "بيرة غير كحولية", ru: "Безалкогольное пиво", de: "Alkoholfreies Bier", it: "Birra analcolica" }, price: 35, image: "images/products/birell.webp" },
         { name: { en: "Soda", ar: "صودا", ru: "Содовая", de: "Soda", it: "Soda" }, desc: { en: "Plain soda water", ar: "ماء صودا عادي", ru: "Обычная газированная вода", de: "Einfaches Sodawasser", it: "Acqua di soda naturale" }, price: 35, image: "images/products/soda.webp" },
         { name: { en: "Tonic", ar: "تونيك", ru: "Тоник", de: "Tonic", it: "Tonico" }, desc: { en: "Tonic water", ar: "ماء تونيك", ru: "Тонизирующая вода", de: "Tonic Water", it: "Acqua tonica" }, price: 35, image: "images/products/tonic.webp" },
-        { name: {en: "red bull", ar: "ريد بول", ru: "Ред Булл энергетический напиток", de: "Red Bull Energy Drink", it: "Red Bull Energy Drink"}, desc: {en: "Red Bull energy drink", ar: "ريد بول مشروب طاقة", ru: "Ред Булл энергетический напиток", de: "Red Bull Energy Drink", it: "Red Bull Energy Drink"}, price: 85, image: "images/products/redbull.webp" },
+        { name: { en: "red bull", ar: "ريد بول", ru: "Ред Булл энергетический напиток", de: "Red Bull Energy Drink", it: "Red Bull Energy Drink" }, desc: { en: "Red Bull energy drink", ar: "ريد بول مشروب طاقة", ru: "Ред Булл энергетический напиток", de: "Red Bull Energy Drink", it: "Red Bull Energy Drink" }, price: 85, image: "images/products/redbull.webp" },
         { name: { en: "Small Bottled Water", ar: "ماء زجاجة صغيرة", ru: "Маленькая бутылка воды", de: "Kleine Flasche Wasser", it: "Acqua in Bottiglia Piccola" }, desc: { en: "Small water bottle", ar: "زجاجة ماء صغيرة", ru: "Маленькая бутылка воды", de: "Kleine Wasserflasche", it: "Bottiglietta d'acqua" }, price: 10, image: "images/products/water-small.webp" },
         // { name: { en: "Large Bottled Water", ar: "ماء زجاجة كبيرة", ru: "Большая бутылка воды", de: "Große Flasche Wasser", it: "Acqua in Bottiglia Grande" }, desc: { en: "Large water bottle", ar: "زجاجة ماء كبيرة", ru: "Большая бутылка воды", de: "Große Wasserflasche", it: "Bottiglia grande d'acqua" }, price: 25, image: "images/products/water-large.webp" }
       ]
@@ -137,7 +137,7 @@ const data = {
       image: "images/categories/desserts.webp",
       products: [
         { name: { en: "Molten Cake", ar: "مولتن كيك", ru: "Шоколадный фондан", de: "Schmelzkuchen", it: "Torta al Cioccolato Fuso" }, desc: { en: "Warm chocolate cake", ar: "كيك شوكولاتة ساخن", ru: "Теплый шоколадный кекс", de: "Warmer Schokoladenkuchen", it: "Torta al cioccolato calda" }, price: 95, image: "images/products/molten.webp" },
-        { name: {en: "Cheesecake", ar: "تشيز كيك", ru: "Чизкейк", de: "Käsekuchen", it: "Cheesecake" }, desc: { en: "Classic cheesecake", ar: "تشيز كيك كلاسيك", ru: "Классический чизкейк", de: "Klassischer Käsekuchen", it: "Cheesecake classico" }, price: 85, image: "images/products/cheesecake.webp" },
+        { name: { en: "Cheesecake", ar: "تشيز كيك", ru: "Чизкейк", de: "Käsekuchen", it: "Cheesecake" }, desc: { en: "Classic cheesecake", ar: "تشيز كيك كلاسيك", ru: "Классический чизкейк", de: "Klassischer Käsekuchen", it: "Cheesecake classico" }, price: 85, image: "images/products/cheesecake.webp" },
         { name: { en: "Brownies", ar: "براونيز", ru: "Брауни", de: "Brownies", it: "Brownies" }, desc: { en: "Rich chocolate brownie", ar: "براونيز شوكولاتة غني", ru: "Насыщенный шоколадный брауни", de: "Reichhaltiger Schokoladen-Brownie", it: "Brownie al cioccolato ricco" }, price: 85, image: "images/products/brownies.webp" },
         { name: { en: "Kurawasu", ar: "كوراواسو", ru: "Куравасу", de: "Kurawasu", it: "Kurawasu" }, desc: { en: "Japanese dessert", ar: "حلوى يابانية", ru: "Японский десерт", de: "Japanisches Dessert", it: "Dessert giapponese" }, price: 90, image: "images/products/kurawasu.webp" },
         { name: { en: "Sweet Kurosu", ar: "سويت كوروسو", ru: "Сладкий куросу", de: "Süßer Kurosu", it: "Kurosu Dolce" }, desc: { en: "Sweet dessert", ar: "حلوى حلوة", ru: "Сладкий десерт", de: "Süßes Dessert", it: "Dessert dolce" }, price: 95, image: "images/products/sweet-kurosu.webp" },
@@ -180,7 +180,7 @@ const data = {
         }
       ]
     },
-        {
+    {
       id: "smoothies",
       name: { en: "Smoothies", ar: "سموزي", ru: "Смузи", de: "Smoothies", it: "Frullati" },
       image: "images/categories/smoothies.webp",
@@ -259,27 +259,27 @@ function openContact() {
   const content = {
     en: {
       title: "Contact Us",
-      address: "Hurghada - El Kawther (Inter)",
+      address: "Building 52, Intercontinental District, Hurghada",
       back: "⬅ Back"
     },
     ar: {
       title: "اتصل بنا",
-      address: "الغردقة - منطقة الانتر",
+      address: "عمارة ٥٢، تقسيم الإنتركونتيننتال، الغردقة",
       back: "رجوع ➡"
     },
     ru: {
       title: "Связаться с нами",
-      address: "Хургада - район Интер",
+      address: "Здание 52, район Интерконтиненталь, Хургада",
       back: "⬅ Назад"
     },
     de: {
       title: "Kontakt",
-      address: "Hurghada - El Kawther (Inter)",
+      address: "Gebäude 52, Intercontinental Viertel, Hurghada",
       back: "⬅ Zurück"
     },
     it: {
       title: "Contattaci",
-      address: "Hurghada - El Kawther (Inter)",
+      address: "Edificio 52, zona Intercontinental, Hurghada",
       back: "⬅ Indietro"
     }
   };
