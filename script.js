@@ -292,7 +292,7 @@ function openContact() {
       <h2>${t.title}</h2>
       <p>${t.address}</p>
       <iframe 
-        src="https://www.google.com/maps?q=Hurghada%20Inter&output=embed"
+        src="https://www.google.com/maps?q=27.1527362,33.8232987&output=embed">
         width="100%" 
         height="250" 
         style="border:0; border-radius:15px;"
