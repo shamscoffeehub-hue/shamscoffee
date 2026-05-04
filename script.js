@@ -312,7 +312,7 @@ function openContact() {
         <a href="https://www.facebook.com/Shams.coffee.hub" target="_blank">
           <i class="fa-brands fa-facebook"></i> Facebook
         </a>
-        <a href="mailto:khedrabdelbasetkhedr@gmail.com">
+        <a href="mailto:shamscoffeehub@gmail.com">
           <i class="fa-solid fa-envelope"></i> Email
         </a>
       </div>
